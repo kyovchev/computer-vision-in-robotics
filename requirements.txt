@@ -1,0 +1,8 @@
+opencv-python
+matplotlib
+jupyterlab
+torch
+torchvision
+onnxscript
+onnx
+onnxruntime

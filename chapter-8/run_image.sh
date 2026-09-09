@@ -1,0 +1,1 @@
+python3 detect_cuda.py --model bolt_model.onnx --image image.png --fixed-size 320x416

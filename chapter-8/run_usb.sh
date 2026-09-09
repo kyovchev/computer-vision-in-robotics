@@ -1,0 +1,1 @@
+python3 detect_cuda.py --model bolt_model.onnx --usb 0 --fixed-size 320x416
